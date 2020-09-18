@@ -1,0 +1,33 @@
+{
+   "abstract" : "cpm resolver sample",
+   "author" : [
+      "Shoichi Kaji <skaji@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "hand",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : 2
+   },
+   "name" : "App-cpm-Resolver-Sample",
+   "prereqs" : {
+      "runtime" : {
+         "requires" : {
+            "YAML::PP" : "0",
+            "perl" : "5.032000"
+         }
+      }
+   },
+   "provides" : {
+      "App::cpm::Resolver::Sample" : {
+         "file" : "lib/App/cpm/Resolver/Sample.pm",
+         "version" : "0.001"
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.001",
+   "x_static_install" : 1
+}

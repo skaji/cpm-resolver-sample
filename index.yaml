@@ -1,0 +1,4 @@
+index:
+  Plack::Request: { source: "http", uri: "https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/Plack-1.0047.tar.gz" }
+  Class::MOP:     { source: "http", uri: "https://cpan.metacpan.org/authors/id/E/ET/ETHER/Moose-2.0800.tar.gz" }
+  Carl::Indexer:  { source: "git", uri: "https://github.com/skaji/Carl.git", ref: "master" }
