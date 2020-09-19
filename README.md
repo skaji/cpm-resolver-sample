@@ -87,7 +87,7 @@ cpm install --resolver Minimal,arg1,arg2 Plack
 Let's go on to a practical one.
 
 Please look at [index.yaml](index.yaml),
-which is a *staic* YAML file, and defines the correspondence between packages and distributions.
+which is a *static* YAML file, and defines the correspondence between packages and distributions.
 
 ```yaml
 index:
@@ -121,7 +121,7 @@ The resolvers in cpm are still in alpha stage.
 ## Feedback
 
 I would like to hear your thoughts. Please feel free to create [github issues](https://github.com/skaji/cpm-resolver-sample/issues)
-or contact me via [twitter](https://twitter.com/shoichikaji).
+or to contact me via [twitter](https://twitter.com/shoichikaji).
 
 Let's make CPAN better.
 
